@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	_ "gitee.com/chunanyong/dm"
+	_ "gitee.com/travelliu/dm"
 	_ "github.com/golang/snappy"
 	_ "golang.org/x/text"
 
