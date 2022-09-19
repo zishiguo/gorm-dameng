@@ -5,13 +5,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/qcozof/gorm-dameng/customdbtype"
+	"github.com/zishiguo/gorm-dameng/customdbtype"
 	"log"
 	"os"
 	"time"
 
 	"github.com/cengsin/oracle"
-	"github.com/qcozof/gorm-dameng/dameng"
+	"github.com/zishiguo/gorm-dameng/dameng"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 	"gorm.io/gorm/schema"

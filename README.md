@@ -5,8 +5,8 @@
 引入：
 
 ``` go script
-	"github.com/qcozof/gorm-dameng/customdbtype"
-	"github.com/qcozof/gorm-dameng/dameng"
+	"github.com/zishiguo/gorm-dameng/customdbtype"
+	"github.com/zishiguo/gorm-dameng/dameng"
 ```
 
 

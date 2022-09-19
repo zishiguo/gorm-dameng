@@ -11,8 +11,8 @@ import (
 	_ "github.com/golang/snappy"
 	_ "golang.org/x/text"
 
-	"github.com/qcozof/gorm-dameng/clauses"
 	"github.com/thoas/go-funk"
+	"github.com/zishiguo/gorm-dameng/clauses"
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"
 	"gorm.io/gorm/clause"

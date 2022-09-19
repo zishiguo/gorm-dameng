@@ -5,13 +5,12 @@ import (
 	"database/sql"
 	"reflect"
 
-	"github.com/qcozof/gorm-dameng/clauses"
 	"github.com/thoas/go-funk"
+	"github.com/zishiguo/gorm-dameng/clauses"
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"
 	"gorm.io/gorm/clause"
 	gormSchema "gorm.io/gorm/schema"
-
 )
 
 func Create(db *gorm.DB) {
