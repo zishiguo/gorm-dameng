@@ -3,7 +3,7 @@ module github.com/zishiguo/gorm-dameng
 go 1.15
 
 require (
-	gitee.com/travelliu/dm v1.8.11192
+	gitee.com/curryzheng/dm v0.0.1
 	github.com/dzwvip/oracle v1.2.4
 	github.com/emirpasic/gods v1.12.0
 	github.com/golang/snappy v0.0.3
