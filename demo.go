@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cengsin/oracle"
+	"github.com/dzwvip/oracle"
 	"github.com/zishiguo/gorm-dameng/dameng"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
